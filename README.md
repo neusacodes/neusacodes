@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @neusacodes
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning algorithms and data structures 
+- 💞️ I’m looking to collaborate on opensource projects
+- 📫 How to reach me [neusacodes@gmail.com](mailto:neusacodes@gmail.com)
